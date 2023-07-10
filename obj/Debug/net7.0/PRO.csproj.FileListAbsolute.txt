@@ -1,0 +1,15 @@
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\PRO\bin\Debug\net7.0\PRO.exe
+C:\Users\Nicolas\Desktop\PRO\bin\Debug\net7.0\PRO.deps.json
+C:\Users\Nicolas\Desktop\PRO\bin\Debug\net7.0\PRO.runtimeconfig.json
+C:\Users\Nicolas\Desktop\PRO\bin\Debug\net7.0\PRO.dll
+C:\Users\Nicolas\Desktop\PRO\bin\Debug\net7.0\PRO.pdb
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.dll
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\refint\PRO.dll
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.pdb
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\PRO.genruntimeconfig.cache
+C:\Users\Nicolas\Desktop\PRO\obj\Debug\net7.0\ref\PRO.dll
