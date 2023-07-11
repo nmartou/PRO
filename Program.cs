@@ -1,6 +1,13 @@
 using System;
 
 abstract class Car {
+
+    enum warningStatus {
+        Brake,
+        Engine,
+        Wheel
+    }
+    
     protected float fuel;
     protected float maxFuel;
     protected float maxSpeed;
