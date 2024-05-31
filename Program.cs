@@ -38,9 +38,10 @@ class Porsche : Car {
 
 class Program {
     static void Main() {
-        Porsche porsche911 = new Porsche("911", "red", 50f, 5f, 230f);
-        Console.WriteLine("Hello World!");
-        Console.WriteLine(porsche911.NameCar());
-        Console.WriteLine(porsche911.brand);
+        // Porsche porsche911 = new Porsche("911", "red", 50f, 5f, 230f);
+        // Console.WriteLine("Hello World!");
+        // Console.WriteLine(porsche911.NameCar());
+        // Console.WriteLine(porsche911.brand);
+        Algorithm.Algo();
     }
 }
